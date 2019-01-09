@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehiculos_nuevos>
+<vehiculo id="Opel Mokka">
+    <marca>Opel</marca>
+    <modelo>Mokka</modelo>
+    <motor>1600cc</motor>
+    <matrícula>4752MnM</matrícula>
+    <kilómetros>1500</kilómetros>
+    <precio_original>16000</precio_original>
+    <precio_oferta>15000</precio_oferta>
+    <extras>portabicicletas</extras>
+    <fotos></fotos>
+</vehiculo>
+<vehiculo id="Seat Altea">
+    <marca>Seat</marca>
+    <modelo>Altea</modelo>
+    <motor>1800ccc</motor>
+    <matrícula>3262JNJ</matrícula>
+    <kilómetros>800</kilómetros>
+    <precio_original>19000</precio_original>
+    <precio_oferta>14000</precio_oferta>
+    <extras>Ordenador de a bordo</extras>
+    <fotos></fotos>
+</vehiculo>
+</vehiculos_nuevos>

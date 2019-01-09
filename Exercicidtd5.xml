@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Escribir la DTD y el ejemplar de modelos XML que permita modelar los siguientes datos de venta de una editorial.-->
+
+<!DOCTYPE direccion SYSTEM "nota.dtd">
+<informe_regional_de_ventas>
+    <region id="norte">
+        <trimestre id="1">
+            <libros_vendidos>24000</libros_vendidos>
+        </trimestre>
+        <trimestre id="2">
+            <libros_vendidos>38600</libros_vendidos>
+        </trimestre>
+        <trimestre id="3">
+            <libros_vendidos>NO_INFO</libros_vendidos>
+        </trimestre>
+        <trimestre id="4">
+            <libros_vendidos>NO_INFO</libros_vendidos>
+        </trimestre>
+    </region>
+    <region id="centro">
+        <trimestre id="1">
+            <libros_vendidos>NO_INFO</libros_vendidos>
+        </trimestre>
+        <trimestre id="2">
+            <libros_vendidos>16080</libros_vendidos>
+        </trimestre>
+        <trimestre id="3">
+            <libros_vendidos>25000</libros_vendidos>
+        </trimestre>
+        <trimestre id="4">
+            <libros_vendidos>29000</libros_vendidos>
+        </trimestre>
+    </region>
+    <region id="sur">
+        <trimestre id="1">
+            <libros_vendidos>27000</libros_vendidos>
+        </trimestre>
+        <trimestre id="2">
+            <libros_vendidos>31400</libros_vendidos>
+        </trimestre>
+        <trimestre id="3">
+            <libros_vendidos>40100</libros_vendidos>
+        </trimestre>
+        <trimestre id="4">
+            <libros_vendidos>30000</libros_vendidos>
+        </trimestre>
+    </region>
+</informe_regional_de_ventas>

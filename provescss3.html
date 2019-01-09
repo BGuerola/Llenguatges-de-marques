@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="author" content="BERNAT GUEROLA TRULL">
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="Estilcss">
+<style>
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+.cascada
+
+</style>
+</head>
+<body>
+<h2> A vore com funciona el Box Model</h2>
+<p>Encara no estem dins del cuadre, ho estarem quan li donem div, que per cert no es una class</p>
+<div> Ara si que estic dins del div definit en el head del document mitjançant un style, que diuen que amb aixó ja estem fent un css. No sembla que css siga un llenguatge de programació, sino sols unes instrucciones d'aplicacions d'estils a la pàgina fet en html. Però sembla molt útil per a no embrutar massa el que hem programat.</div>
+<div class="cascada">
+        <h1> Estilo en cascada</h1>
+        <div style="background-color:red;color:white;">
+        Este text es mostra amb text blanc sobre fons roig i hereta el que hem declara en HEAD
+                <div> I este DIV està dins del primer</div>
+                    <div style="background-color:lightgreen">
+                    Este text té el fons verd i hereda en cascada el text blanc
+                        <div style="color:black;">
+                        Este text here el fons verd i canvia el text a negre
+                        </div>
+                    </div>
+                    Este text torna a ser blanc sobre roig perqué ho hereta del nivell superior
+            </div>
+            <div>
+            este no te estil associat i ha de apareixer negre sobre blanc
+            </div>
+        </div>
+</body>
+</html>
+

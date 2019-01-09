@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discos>
+    <album>
+        <título_album>A hard day's night</título_album>
+        <autores>The beatles</autores>
+        <discografica>EMI RECORDS</discografica>
+        <fecha>1964</fecha>
+    </album>
+    <album>
+        <título_album>Abey Road</título_album>
+        <autores>The beatles</autores>
+        <discografica>EMI RECORDS</discografica>
+        <fecha>1987</fecha>
+    </album>
+    <album>
+        <título_album>FLOWERS</título_album>
+        <autores>Rolling Stones</autores>
+        <discografica>Decca Records</discografica>
+        <fecha>1987</fecha>
+    </album>
+</discos>

@@ -1,0 +1,45 @@
+<!DOCTYPE Html>
+<html>
+<head>
+<meta name="author" content="BERNAT GUEROLA TRULL">
+<meta charset="UTF-8">
+</head>
+<h1 style="color:tomato">EXERCICI FORMULARI</h1>
+
+<body style="background-color: Cyan">
+
+<h3><strong>Información sobre el producto</strong></h3>
+
+<form action="./action_page.php" accept="image/gif, image/jpeg">
+<fieldset>
+    <legend>Datos básicos</legend>
+    Nombre:<br>
+    <input type="text" name="first name" value=" "><br><br>
+    Descripción:<br>
+    <textarea style="overflow-y:scroll" rows="5" cols="50"></textarea><br>
+    Foto:<input type="file" name="pic" id="pic"><br>
+    <input type="radio" id="Contador">
+    <label for="Contador">Añadir contador de visitas</label>
+    
+</fieldset>
+<fieldset>
+    <legend>Datos económicos</legend>
+    Precio <input type="number" value="0" scrolling=no>
+    Impuestos 
+    <select>
+        <option value="4%"">4%</option>
+        <option value="7%">7%</option>
+        <option value="16%"">16%</option>
+        <option value="25%"">25%</option>
+    </select><br><br>
+    Promoción<br><br>
+    <input type="radio" id="Ninguno">
+    <label for="Ninguno">Ninguno</label><br>
+    <input type="radio" id="gratuito">
+    <label for="gratuito">Transporte gratuito</label><br>
+    <input type="radio" id="Descuento">
+    <label for="Descuento">Descuento del 5%</label><br>
+</fieldset>
+</form>
+
+</html>

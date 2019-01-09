@@ -1,0 +1,23 @@
+<!DOCTIPE html>
+<html>
+<head>
+<meta name="author" content="BERNAT GUEROLA TRULL">
+<h1>EXERCICI 3</h1>
+</head>
+<body>
+<ul>Llenguatges de marques
+<li>SGML</li>
+<li>XML</li>
+<li>HTML</li>
+<li>XHTML</li>
+</ul>
+<hr>
+<ol>Passes de creació de documents HTML
+<li>Obrir l'editor de text pla VSC</li>
+<li>Escriure el text amb etiquetes</li>
+<li>Guardar com HTML o HTM</li>
+<li>Previsualitzar en el navegador</li>
+</ol>
+<hr>
+</body>
+</html>

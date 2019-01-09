@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+    <articulo_pedido>bicicleta A2023</articulo_pedido>
+    <destinatario>Juan Delgado Martíne</destinatario>
+    <direccion_de_entrega>Calle Barco 4, tecer piso, letra A</direccion_de_entrega>
+    <fecha_entrega>día 19-5-2000</fecha_entrega>
+</pedido>

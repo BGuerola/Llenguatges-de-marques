@@ -1,0 +1,4 @@
+<!ELEMENT informe_regional_de_ventas(region)>
+<!ELEMENT region (trimestre)>
+<!ELEMENT trimestre (libros_vendidos)>
+<!ELEMENT libros_vendidos (#PCDATA)>

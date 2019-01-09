@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<librerias_electronicas>
+<libreria>
+    <libro>
+        <código_ISBN>12346789</código_ISBN>
+        <titulo>El Quijote</titulo>
+        <profundidad_tratamiento>Avanzado</profundidad_tratamiento>
+        <autores>Miguel de Cervantes</autores>
+        <editorial>Gredos</editorial>
+        <fecha_publicación>1998</fecha_publicación>
+        <web>quijoste.com</web>
+        <precio>25€</precio>
+    </libro>
+    <libro>
+        <código_ISBN>987654</código_ISBN>
+        <titulo>On the road</titulo>
+        <profundidad_tratamiento>Medio</profundidad_tratamiento>
+        <autores>Kerouak</autores>
+        <editorial>Grijalbo</editorial>
+        <fecha_publicación>1970</fecha_publicación>
+        <web>beat.com</web>
+        <precio></precio>
+    </libro>
+    <libro>
+        <código_ISBN>546213879</código_ISBN>
+        <titulo>Trafalguar</titulo>
+        <profundidad_tratamiento>medio</profundidad_tratamiento>
+        <autores>Benito Pérez Galdos</autores>
+        <editorial>Catedra</editorial>
+        <fecha_publicación>2005</fecha_publicación>
+        <web>trafalguar.com</web>
+        <precio>12€</precio>
+    </libro>
+</libreria>
+<libreria>
+    <libro>
+        <código_ISBN></código_ISBN>
+        <titulo>El Aleph</titulo>
+        <profundidad_tratamiento>medio</profundidad_tratamiento>
+        <autores>Jose Luís Borges</autores>
+        <editorial>Martinez Roca</editorial>
+        <fecha_publicación>2005</fecha_publicación>
+        <web>elaleph.com</web>
+        <precio>8€</precio>
+    </libro>
+    <libro>
+        <código_ISBN>753951852</código_ISBN>
+        <titulo>El Coronel no tiene quien le escriba</titulo>
+        <profundidad_tratamiento>medio</profundidad_tratamiento>
+        <autores>Gabriel García Márquez</autores>
+        <editorial>planeta</editorial>
+        <fecha_publicación>1985</fecha_publicación>
+        <web>coronel.com</web>
+        <precio>8 euros</precio>
+    </libro>
+    <libro>
+        <código_ISBN>786453126</código_ISBN>
+        <titulo>El Laberinto de las aceitunas</titulo>
+        <profundidad_tratamiento>bajo</profundidad_tratamiento>
+        <autores>Mendoza</autores>
+        <editorial>planeta</editorial>
+        <fecha_publicación>2002</fecha_publicación>
+        <web>labaceitu.com</web>
+        <precio>14 euros</precio>
+    </libro>
+</libreria>
+</librerias_electronicas>
